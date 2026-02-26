@@ -1,0 +1,9 @@
+Dataset not included.
+
+Dataset
+
+This project uses the Titanic dataset from Kaggle
+Download from Kaggle link below.
+  https://www.kaggle.com/datasets/yasserh/titanic-dataset
+
+Please download the dataset and place `Titanic-Dataset.csv` inside the `data/` folder before running the notebook.
