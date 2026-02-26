@@ -34,6 +34,7 @@ Logistic Regression
 
 Results
 Accuracy: 0.8100558659217877
+The Logistic Regression model achieved an accuracy of ~81%, indicating that the model correctly predicts survival for ~81% of passengers in the dataset.
 
 git clone https://github.com/nayanagoudar26/titanic-survival-prediction
 cd titanic-survival-prediction
